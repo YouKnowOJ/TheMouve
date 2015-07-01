@@ -1,5 +1,5 @@
 <?php
-  $apiKey         = '85d2d2fa96f31aa3563dd856214cd692-us11'; // Edit me
+  $apiKey         = '85d2d2fa96f31aa3563dd856214cd692'; // Edit me
   $listId         = 'aa2d84a12f'; // Edit me
   $double_optin   = true;
   $send_welcome   = true;
