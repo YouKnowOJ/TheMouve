@@ -1,6 +1,6 @@
 <?php
-  $apiKey         = 'your-api-key'; // Edit me
-  $listId         = 'your-list-id'; // Edit me
+  $apiKey         = '85d2d2fa96f31aa3563dd856214cd692-us11'; // Edit me
+  $listId         = 'aa2d84a12f'; // Edit me
   $double_optin   = true;
   $send_welcome   = true;
   $email_type     = 'html';
@@ -8,7 +8,7 @@
 
 
   // Replace us8 with your datacentre, usually found at end of api key
-  $submit_url     = "http://us8.api.mailchimp.com/1.3/?method=listSubscribe";
+  $submit_url     = "http://us11.api.mailchimp.com/1.3/?method=listSubscribe";
 
   $data = array(
       'email_address'=>$email,
